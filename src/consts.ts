@@ -1,6 +1,6 @@
 export const SITE = {
-	title: 'Documentation',
-	description: 'Your website description.',
+	title: '185 Liberty Street',
+	description: 'Historic apartments in downtown Newburgh, NY.',
 	defaultLanguage: 'en-us',
 } as const;
 
@@ -19,10 +19,6 @@ export const KNOWN_LANGUAGES = {
 } as const;
 export const KNOWN_LANGUAGE_CODES = Object.values(KNOWN_LANGUAGES);
 
-export const GITHUB_EDIT_URL = `https://github.com/withastro/astro/tree/main/examples/docs`;
-
-export const COMMUNITY_INVITE_URL = `https://astro.build/chat`;
-
 // See "Algolia" section of the README for more information.
 export const ALGOLIA = {
 	indexName: 'XXXXXXXXXX',
@@ -36,11 +32,13 @@ export type Sidebar = Record<
 >;
 export const SIDEBAR: Sidebar = {
 	en: {
-		'Section Header': [
-			{ text: 'Introduction', link: 'en/introduction' },
-			{ text: 'Page 2', link: 'en/page-2' },
-			{ text: 'Page 3', link: 'en/page-3' },
+		'History': [
+			{ text: 'Detailed History', link: 'en/introduction' },
+			{ text: 'Previous Owners', link: 'en/owners' },
 		],
-		'Another Section': [{ text: 'Page 4', link: 'en/page-4' }],
+		'Photos': [
+			{ text: 'Before', link: 'en/before' },
+			{ text: 'After', link: 'en/after' }
+		],
 	},
 };

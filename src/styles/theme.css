@@ -20,8 +20,8 @@
 	--color-base-white: 0, 0%;
 	--color-base-black: 240, 100%;
 	--color-base-gray: 215, 14%;
-	--color-base-blue: 212, 100%;
-	--color-base-blue-dark: 212, 72%;
+	--color-base-blue: 79, 18%;
+	--color-base-blue-dark: 107, 6%;
 	--color-base-green: 158, 79%;
 	--color-base-orange: 22, 100%;
 	--color-base-purple: 269, 79%;
@@ -47,8 +47,8 @@
 	--color-gray-90: var(--color-base-gray), 90%;
 	--color-gray-95: var(--color-base-gray), 95%;
 
-	--color-blue: var(--color-base-blue), 61%;
-	--color-blue-dark: var(--color-base-blue-dark), 39%;
+	--color-blue: var(--color-base-blue), 69%;
+	--color-blue-dark: var(--color-base-blue-dark), 42%;
 	--color-green: var(--color-base-green), 42%;
 	--color-orange: var(--color-base-orange), 50%;
 	--color-purple: var(--color-base-purple), 54%;
