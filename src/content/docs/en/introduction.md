@@ -8,7 +8,7 @@ description: "History of 185 Liberty Street"
 Prepared by Steven Baltsas, 2022
 
 
-![alt_text](/public/images/image2.jpg "image_tooltip")
+![alt_text](/images/image2.jpg "image_tooltip")
 
 ## Description
 
@@ -31,13 +31,13 @@ All of the primary facade’s gables, excluding the central bay’s dormer, are 
 
 The house which is today addressed 185 Liberty Street appeared first on an 1854 map of Newburgh (Fig. 2), and soon after in the village directory as “149 Liberty Street.” New York civil engineer and surveyor William Perris, when visiting the Village of Newburgh to prepare this map, passed construction of the house and decided to include it. Perris records the house as forming the northeast corner of lands most recently in possession of the Gorham and Young families. Though not illustrated with the cross gable projection complete, the structure is deliberately set back from the streetline, a practice inevident on older streets nearer to the river, such as Smith or Water. 
 
-![alt_text](/public/images/image9.png "image_tooltip")
+![alt_text](/images/image9.png "image_tooltip")
 
 **Figure 2** 185 Liberty Street (circled) appears in William Perris’s 1854 Map of Newburgh. 
 
 Land west of Liberty Street at this moment came under serious consideration for residential development. Areas once considered rural, where wealthier families had parcels, were being sold off and divided. To the north, Grand and Montgomery Street became desirable for upper middle class residences. This latter street was, in the 1830s, branded “Highland Terrace” by the merchants who built their mansions there and effectively gentrified this ridge above the village. Moving into the 1850s, architectural patronage gained a seriousness with the incorporation of Downing & Vaux, the village’s first professional architectural firm. Whereas in previous decades carpenters and builders took commissions for many variants of architecture (houses, churches, stores) Downing & Vaux established their focus in domestic architecture—house and estate design. 
 
-![alt_text](/public/images/image15.jpg "image_tooltip")
+![alt_text](/images/image15.jpg "image_tooltip")
 
 **Figure 3** John Little, Nathan Reeve House (1849), 235 Montgomery Street, Newburgh, NY. (Tom Daley, Historical Society of Newburgh Bay and the Highlands)
 
@@ -66,7 +66,7 @@ These six years, 1850–56, were a “golden age” for Gothic in Newburgh. The 
 These were not the concerns of the standard builder in Newburgh. He was a man trained in organizational principles wholly based in classicism. He had no sense of the asymmetrical exterior or imbalanced floor plan, but was instead concerned with space and affordability. Even in the David Moore House (1852), Downing & Vaux attended the project working with an existing mundane square foundation and lifted a picturesque massing from it, aided, in Vaux’s admission, by added details such as window hoods. [^4]
 
 
-![alt_text](/public/images/image14.png "image_tooltip")
+![alt_text](/images/image14.png "image_tooltip")
 
 
 **Figure 4** Calvert Vaux and Andrew Jackson Downing, David Moore House (1852), 55 Broad Street, Newburgh, NY. (Vaux, _Villas and Cottages_, 1857) 
@@ -83,17 +83,17 @@ In the early 1850s, McClung and his brother Samuel worked as builders in the fir
 
 The lack of architectural finesse in McClung versus Vaux is evident in a house attributable to him through his association with 185 Liberty Street. Built ca. 1860, this brick residence, which stood across from the Union Presbyterian Church (now Ebenezer Baptist Church), is 185 Liberty in reverse (Fig. 5).[^5] We observe two similar means of fenestration, both copied from Vaux. The first is the appearance of a _tripartite_, or three-part window, its _mullions_, or dividing bars, made of wood. Vaux encouraged the use of tripartite windows in Downing & Vaux’s design practice, as they proved to be more visually stimulating than (contd.) 
 
-![alt_text](/public/images/image19.png "image_tooltip")
-![alt_text](/public/images/image21.png "image_tooltip")
+![alt_text](/images/image19.png "image_tooltip")
+![alt_text](/images/image21.png "image_tooltip")
 **Figure 5** Attributed to S. & J. McClung, views of demolished house at 73–81 First Street (ca. 1860), Newburgh, NY. 
 
 (Tom Daley, Historical Society of Newburgh Bay and the Highlands)
 
-![alt_text](/public/images/image4.png "image_tooltip")
+![alt_text](/images/image4.png "image_tooltip")
 
 **Figure 6** Paired first floor window with wooden mullion, Moore house. (Library of Congress) </p>
 
-![alt_text](/public/images/image11.png "image_tooltip")
+![alt_text](/images/image11.png "image_tooltip")
 
 **Figure 7** Vaux, Detail of porch, Moore house. (_Villas and Cottages_) 
 
@@ -105,11 +105,11 @@ McClung has a greater handling of this ca. 1860 than he does ca. 1854 with 185 L
 An uncomfortable discord exists in the McClung’s fenestration on the primary body of the First Street house, as a tripartite window is set above two spaced windows. Another sign of amateur skill, or rather preference for functionality, is in the fenestration on the southern elevation of 185 Liberty.  This is clearly done in the established building (contd.) 
 
 
-![alt_text](/public/images/image13.jpg "image_tooltip")
+![alt_text](/images/image13.jpg "image_tooltip")
 
 **Figure 8** South elevation, Reeve house. (Tom Daley, Historical Society of Newburgh Bay and the Highlands)
 
-![alt_text](/public/images/image3.png "image_tooltip")
+![alt_text](/images/image3.png "image_tooltip")
 
 **Figure 9** Side elevation, William Roe House 
 
@@ -122,7 +122,7 @@ Vaux almost never treated an elevation this way, but one example McClung would h
 Besides this elevation, in the Case house is also seen Vaux’s method of window “stacking,” notably in the projection, which maintains a kinship with the McClung’s First Street house. 
 
 
-![alt_text](/public/images/image10.png "image_tooltip")
+![alt_text](/images/image10.png "image_tooltip")
 
 
 **Figure 10** Calvert Vaux, Robert L. Case House (1853), 
@@ -140,31 +140,31 @@ In _The Architecture of Country Houses_, Downing produced two cross gabled farmh
 
 The two plans seem to have merged in the years after their publication, and cemented themselves (contd)
 
-![alt_text](/public/images/image6.png "image_tooltip")
+![alt_text](/images/image6.png "image_tooltip")
 
 **Figure 11** Andrew Jackson Downing, Design XVI “A Farm-House in the English Rural style.” (Downing, _The Architecture of Country Houses_, 1850) 
 
-![alt_text](/public/images/image6.png "image_tooltip")
+![alt_text](/images/image6.png "image_tooltip")
 
 **Figure 12** Andrew Jackson Downing, Design XVII “A bracketed Farm-house in the American Style.” (Downing, _The Architecture of Country Houses_, 1850) 
 
 
-![alt_text](/public/images/image12.png "image_tooltip")
+![alt_text](/images/image12.png "image_tooltip")
 
 
 **Figure 13** Charles King House (ca. 1853), 232 Washington Street, Belmont, MA. (MACRIS)
 
 
-![alt_text](/public/images/image16.png "image_tooltip")
+![alt_text](/images/image16.png "image_tooltip")
 
 
 **Figure 14** Benjamin B. Odell, Sr. House (ca. 1853), 188 Grand Street, Newburgh, NY. (Urban Archive) 
 
 
-![alt_text](/public/images/image18.jpg "image_tooltip")
+![alt_text](/images/image18.jpg "image_tooltip")
 
 
-![alt_text](/public/images/image17.jpg "image_tooltip")
+![alt_text](/images/image17.jpg "image_tooltip")
 
 
 **Figure 15** Views of house (ca. 1860) at 98 Lander Street, Newburgh, NY. (Tom Daley, Historical Society of Newburgh Bay and the Highlands)
@@ -182,13 +182,13 @@ In closing this argument—which attributes 185 Liberty Street to builder James 
 
 A case that advocated for Calvert Vaux as architect of 185 Liberty Street could feasibly be made once the defender introduced “Ashcroft,” the Stephen H. Hammond House (1862) in Geneva, New York. The house still stands, and was apparently a larger remodeling project done to create a summer home. The front elevation of Ashcroft is almost identical to 185 Liberty Street, with the exception of the central dormer, bargeboards, and porch, as if Vaux was working to improve his hypothetically earlier plan. However, as pointed out, this massing and fenestration were not original, and had
 
-![alt_text](/public/images/image1.png "image_tooltip")
+![alt_text](/images/image1.png "image_tooltip")
 
 **Figure 16** Calvert Vaux, “Ashcroft,” the Stephen H. Hammond House (1862), Geneva, NY. (William Alex, _Calvert Vaux: Architect and Planner_, 1994) 
 
 become a solid design standard even by McClung’s time. It is unquestionable Vaux saw McClung’s house on Liberty Street, may have favored it, and replicated some of its features in a later work facing burnout. He has brought back the paired windows with mullions (at this commission in stone) and even installed turned spindles on the porch. In spite of these coincidences, Ashcroft is decidedly Vauxian in its bargeboards and roof construction, a hallmark of Downing & Vaux. In his bargeboard designs from the introduction to _Villas and Cottages_, comparisons may be found to Ashcroft, but not 185 Liberty Street, whose bargeboards are further dematerialized and airier. Vaux’s bargeboards tended to be composed of a single plank to which the carpenter applied shapes, carved outlines, or made piercings. Their ends often curved upwards, a trait considered “Rheinish” by Downing, who added them to the plan of a villa for _The Architecture of Country Houses_.[^13] To express the technical workings of the roof and its rafters, Downing & Vaux began adding brackets in their wall dormers where the roof and wall met (Fig. 17). Brackets of such function do not appear in 185 Liberty or 
 
-![alt_text](/public/images/image5.png "image_tooltip")
+![alt_text](/images/image5.png "image_tooltip")
 
 **Figure 17** Vaux, Detail of wall dormer with bargeboard and brackets, Hammond house. (Hobart and William Smith Colleges Archives)
 
@@ -204,11 +204,11 @@ Devising an estimate as to the purposes of each room on the first floor of the h
 
 Vaux maintained little care for these dated floor configurations he had known in English and American architecture. In his plan, the parlor and living room doors are made symmetrical and purposeful (Fig. 19). In 185 Liberty, the doors are subservient to the action of the staircase, which dominates the hall in its tight curvature. Vaux, after Downing’s preferences, placed staircases within their own spaces, separated from the living action of the domestic sphere. This gave practical room for the entrance hall to operate as an area of circulation or even celebration, denying the vanity Georgian 
 
-![alt_text](/public/images/image7.png "image_tooltip")
+![alt_text](/images/image7.png "image_tooltip")
 
 **Figure 18** Vaux, Design No. 3, “A Suburban Cottage” (_Villas and Cottages_)
 
-![alt_text](/public/images/image20.png "image_tooltip")
+![alt_text](/images/image20.png "image_tooltip")
 
 **Figure 19** Vaux, Floorplans for Design No. 3 (_Villas and Cottages_) 
 
