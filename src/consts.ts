@@ -36,13 +36,17 @@ export type Sidebar = Record<
 >;
 export const SIDEBAR: Sidebar = {
 	en: {
-		'History': [
-			{ text: 'Detailed History', link: 'en/introduction' },
-			{ text: 'Previous Owners', link: 'en/owners' },
+		'About': [
+			{ text: 'Overview', link: 'en/about' },
+			{ text: 'Rental Information', link: 'en/rental-info' },
 		],
 		'Photos': [
 			{ text: 'Before', link: 'en/before' },
 			{ text: 'After', link: 'en/after' }
+		],
+		'History': [
+			{ text: 'Detailed History', link: 'en/introduction' },
+			{ text: 'Previous Owners', link: 'en/owners' },
 		],
 	},
 };
