@@ -5,7 +5,7 @@ description: "History of 185 Liberty Street"
 
 **185 Liberty Street, Newburgh, NY**
 
-Prepared by Steven Baltsas, 2022
+Prepared by [Steve Baltsas](https://www.instagram.com/stevebaltsas/), 2022
 
 
 ![alt_text](/images/image2.jpg "image_tooltip")

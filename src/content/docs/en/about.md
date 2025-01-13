@@ -3,6 +3,10 @@ title: Welcome to 185 Liberty Street
 description: A historic building transformed into modern rental apartments in Newburgh, NY
 ---
 
+<div class="hero-image">
+    <img src="/images/after/after1.jpeg" alt="185 Liberty Street building exterior" />
+</div>
+
 Located in the heart of historic Newburgh, NY, 185 Liberty Street has been meticulously restored and transformed into high-quality rental apartments. This historic building combines the charm of its original architecture with modern amenities to create unique and comfortable living spaces.
 
 ## Building Overview
@@ -32,3 +36,16 @@ Our apartments offer:
 - Well-maintained common areas
 
 For detailed rental information, including availability and pricing, please visit our [Rental Information](/en/rental-info) page. 
+
+<style>
+    .hero-image {
+        margin: 2rem 0;
+    }
+    
+    .hero-image img {
+        width: 100%;
+        height: auto;
+        border-radius: 8px;
+        box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+    }
+</style> 
