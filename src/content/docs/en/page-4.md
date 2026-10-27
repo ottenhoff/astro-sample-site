@@ -1,6 +1,7 @@
 ---
 title: "Page 4"
 description: "Lorem ipsum dolor sit amet - 4"
+noindex: true
 ---
 
 This is a fully-featured page, written in Markdown!

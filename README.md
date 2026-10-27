@@ -1,5 +1,9 @@
 # Astro Starter Kit: Docs Site
 
+Use Node.js 24.16.0 (`nvm use`) for local development. Astro requires Node.js 22.23.4 or later. Run `npm ci` to install dependencies, `npm run check` to check types, and `npm run build` to build the site.
+
+SEO uses `https://www.185libertystreet.com` as the canonical origin in `astro.config.mjs`. The build generates `/robots.txt`, `/sitemap.xml`, and `/llms.txt` from the endpoints in `src/pages/`. Pages marked `noindex: true` in their frontmatter remain crawlable so search engines can read the directive, but are excluded from the sitemap and LLM guide. Keep the availability warning in `src/pages/llms.txt.ts` consistent with the site banner when availability changes.
+
 ```bash
 npm create astro@latest -- --template docs
 ```

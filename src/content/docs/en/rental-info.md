@@ -1,6 +1,6 @@
 ---
 title: Rental Information
-description: Information about renting at 185 Liberty Street
+description: No apartments are currently for rent at 185 Liberty Street in Newburgh, NY. Beware of fraudulent Craigslist ads and requests for money.
 ---
 
 ## Available Units

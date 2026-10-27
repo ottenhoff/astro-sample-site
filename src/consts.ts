@@ -1,17 +1,14 @@
 export const SITE = {
 	title: '185 Liberty Street',
 	description: 'Historic apartments in downtown Newburgh, NY.',
-	defaultLanguage: 'en-us',
+	defaultLanguage: 'en-US',
 } as const;
 
 export const OPEN_GRAPH = {
 	image: {
-		src: 'https://github.com/withastro/astro/blob/main/assets/social/banner-minimal.png?raw=true',
-		alt:
-			'astro logo on a starry expanse of space,' +
-			' with a purple saturn-like planet floating in the right foreground',
+		src: '/images/after/after1.jpeg',
+		alt: '185 Liberty Street building exterior in Newburgh, NY',
 	},
-	twitter: 'astrodotbuild',
 };
 
 export const KNOWN_LANGUAGES = {
