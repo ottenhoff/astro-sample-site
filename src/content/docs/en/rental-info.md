@@ -7,7 +7,7 @@ description: No apartments are currently for rent at 185 Liberty Street in Newbu
 
 **No apartments are currently for rent at 185 Liberty Street.**
 
-**Rental scam warning:** The current Craigslist rental ad for this property is a scam. Do not send money unless you have visited the apartment in person and signed a lease. Do not send deposits or application fees in response to this ad.
+**Rental scam warning:** The current Craigslist rental ad for this property is a scam. Do not send money unless you have visited the apartment in person and signed a lease. Do not send deposits or application fees in response to internet ads.
 
 However, we welcome inquiries about future availability. Please contact us to be notified when units become available.
 
