@@ -5,7 +5,9 @@ description: Information about renting at 185 Liberty Street
 
 ## Available Units
 
-**Currently there are no vacancies.**
+**No apartments are currently for rent at 185 Liberty Street.**
+
+**Rental scam warning:** The current Craigslist rental ad for this property is a scam. Do not send money unless you have visited the apartment in person and signed a lease. Do not send deposits or application fees in response to this ad.
 
 However, we welcome inquiries about future availability. Please contact us to be notified when units become available.
 
@@ -66,4 +68,4 @@ For rental inquiries, please email:
 - Pet policy available upon request
 - Minimum lease term: 12 months
 
-*Note: Rental rates and availability are subject to change. Please contact us for current information.* 
+*Note: Rental rates and availability are subject to change. Please contact us for current information.*

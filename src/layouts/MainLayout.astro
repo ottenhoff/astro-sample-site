@@ -4,6 +4,7 @@ import type { CollectionEntry } from 'astro:content';
 import HeadCommon from '../components/HeadCommon.astro';
 import HeadSEO from '../components/HeadSEO.astro';
 import Header from '../components/Header/Header.astro';
+import ScamWarning from '../components/ScamWarning.astro';
 import PageContent from '../components/PageContent/PageContent.astro';
 import LeftSidebar from '../components/LeftSidebar/LeftSidebar.astro';
 import RightSidebar from '../components/RightSidebar/RightSidebar.astro';
@@ -32,7 +33,7 @@ const githubEditUrl = `${GITHUB_EDIT_URL}/${currentFile}`;
 			body {
 				width: 100%;
 				display: grid;
-				grid-template-rows: var(--theme-navbar-height) 1fr;
+				grid-template-rows: auto var(--theme-navbar-height) 1fr auto;
 				--gutter: 0.5rem;
 				--doc-padding: 2rem;
 			}
@@ -121,6 +122,7 @@ const githubEditUrl = `${GITHUB_EDIT_URL}/${currentFile}`;
 	</head>
 
 	<body>
+		<ScamWarning />
 		<Header currentPage={currentPage} />
 		<main class="layout">
 			<aside id="grid-left" class="grid-sidebar" title="Site Navigation">
